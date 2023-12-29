@@ -1,10 +1,10 @@
-import React from 'react'
-import './Logo.css'
+import React from "react";
+import "./Logo.css";
 
 export default function Logo() {
   return (
     <div>
-        <h1 className='logo-heading'>TB</h1>
+      <h1 className='logo-heading'>Travel CB</h1>
     </div>
-  )
+  );
 }

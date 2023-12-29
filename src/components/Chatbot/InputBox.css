@@ -1,10 +1,9 @@
-.input-text-box{
-    display: flex;
-    border: none;
-    width: 100%;
-    padding: 10px;
-    border-radius: 10px;
-    background-color: #EDE580;
-    position: static;
+.input-text-box {
+  display: flex;
+  border: none;
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #c5c5c5;
+  position: static;
 }
-
